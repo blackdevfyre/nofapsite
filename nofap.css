@@ -4,13 +4,13 @@ body{
 div{
     text-align:left;
 }
-#nofapsign{
-   position: absolute;
-   right: 50px;
-   top:150px;
-}
 #listright{
-    left: 20px;
-    right: 0px;
+   padding-right: 0;
     
+}
+img{
+    max-width: 100%;
+    height:auto;
+    border:0;
+    vertical-align: right;
 }
