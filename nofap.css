@@ -1,12 +1,26 @@
 body{
     background: blue;
+    font-family: 'Staatliches', cursive !important;
 }
 div{
     text-align:left;
 }
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand a{
+    float:none;
+    font-size:larger !important;
+}
 #listright{
    padding-right: 0;
     
+}
+#brander{
+font-size: 150px !important;
 }
 img{
     max-width: 100%;
