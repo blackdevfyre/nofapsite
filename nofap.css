@@ -1,6 +1,7 @@
 body{
     background: blue;
     font-family: 'Staatliches', cursive !important;
+    font-size:50px;
 }
 div{
     text-align:left;
@@ -39,4 +40,7 @@ img{
     height:300px;
     border:0;
     vertical-align: right;
+}
+li{
+    font-size: 20px;
 }
