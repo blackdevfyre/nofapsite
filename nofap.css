@@ -1,7 +1,9 @@
 body{
+    color:#458BFF !important;
     background: blue;
     font-family: 'Staatliches', cursive !important;
     font-size:50px;
+    background-image: url("background.png");
 }
 div{
     text-align:left;
@@ -14,6 +16,7 @@ div{
     padding: 15px;
     text-align: center;
     width: 100%;
+    background-color:#BFD4FF;
 }
 .navbar-brand a{
     float:none;
@@ -43,4 +46,7 @@ img{
 }
 li{
     font-size: 20px;
+}
+#container{
+    background-color:#BFE9FF;
 }
